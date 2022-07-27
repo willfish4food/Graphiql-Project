@@ -4,7 +4,7 @@ const ProjectSchema = new mongoose.Schema({
     name: {
         type: String,
     },
-    dscription: {
+    description: {
         type: String,
     },
     status: {
